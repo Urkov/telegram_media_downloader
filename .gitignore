@@ -68,3 +68,5 @@ log/
 temp/
 config.yaml
 data.yaml
+config.yaml
+*.yaml
